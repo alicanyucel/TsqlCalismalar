@@ -1,0 +1,2 @@
+# TsqlCalismalar
+T sql pdf
